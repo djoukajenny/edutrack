@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/ico" viewBox="0 0 32 32">
+  <polygon points="16,2 28,9 28,23 16,30 4,23 4,9" fill="#1a4731"/>
+  <polygon points="16,9 23,13 16,17 9,13" fill="#22c55e"/>
+  <rect x="15.2" y="17" width="1.6" height="5" fill="#22c55e"/>
+  <rect x="13" y="21.5" width="6" height="1.5" rx="0.75" fill="#22c55e"/>
+  <line x1="23" y1="13" x2="23" y2="18" stroke="#22c55e" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="23" cy="18.5" r="1.2" fill="#22c55e"/>
+</svg>
